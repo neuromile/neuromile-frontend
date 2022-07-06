@@ -1,6 +1,6 @@
 {
-    "domain": "{AUTH0_DOMAIN}",
-    "clientId": "{AUTH0_CLIENTID}",
+    "domain": "neuromile.us.auth0.com",
+    "clientId": "OghZTPOtfItIDVFgemf9p7W2vaVyIomx",
     "scope": "openid profile email"
 }
   
